@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$ignorez"	"1"
+	"$translucent"	"1"
+	"$basetexture"        "models/weapons/v_toolgun/wire_stools"
+}
