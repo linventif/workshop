@@ -14,7 +14,7 @@
 		By Malboro the 28/12/2012
 */
 
-TOOL.Category		=	"Props Tool"
+TOOL.Category		=	"Configuration"
 TOOL.Name			=	"PermaProps"
 TOOL.Command		=	nil
 TOOL.ConfigName		=	""
