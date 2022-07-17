@@ -4,7 +4,7 @@
 --
 -----------------------------------------------------------------------------
 
-TOOL.Category = "Construction"
+TOOL.Category = "Render"
 TOOL.Author = "SnowredWolf"
 TOOL.Name = "#tool.shadowremover.name"
 TOOL.Desc = "#tool.shadowremover.desc"

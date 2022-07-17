@@ -1,6 +1,6 @@
 AddCSLuaFile();
 
-TOOL.Category = "Construction"
+TOOL.Category = "Render"
 TOOL.Name = "Advanced Material"
 TOOL.ClientConVar["texture"] = "";
 TOOL.ClientConVar["noisetexture"] = "concrete";

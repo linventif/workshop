@@ -1,5 +1,5 @@
 
-TOOL.Category		= "Construction"
+TOOL.Category		= "Constraints"
 TOOL.Name			= "#Precision"
 TOOL.Command		= nil
 TOOL.ConfigName		= ""
