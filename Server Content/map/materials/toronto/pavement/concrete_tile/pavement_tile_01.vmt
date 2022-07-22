@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "toronto/pavement/concrete_tile/pavement_tile_01"
+	"$bumpmap" "toronto/pavement/concrete_tile/pavement_tile_01_normal"
+	"%keywords" "toronto"
+}

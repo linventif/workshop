@@ -1,0 +1,10 @@
+
+"vertexlitgeneric"
+{
+	"$color"				"[1 1 1]"
+	"$basetexture"			"env/brush/ceilings/cream_ceiling"
+	"$selfillum"			0
+	"$translucent"			0
+	"$alpha"				1
+	"$surfaceprop" "plaster"
+}

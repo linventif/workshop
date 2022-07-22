@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models\Armacham\Male\sandro_facemap"
+	"$halflambert" 1
+}

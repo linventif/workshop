@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\darkrp/police_jbib2"
+                "$bumpmap" "models\darkrp/police_jbib_normal"
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "statua/shell/shellname"
+	"$selfillum" "1"
+}

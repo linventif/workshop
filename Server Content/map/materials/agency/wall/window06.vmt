@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+$basetexture "agency\wall\window06"
+$bumpmap "agency\wall\wall_panel_n"
+$envmap env_cubemap
+$normalmapalphaenvmapmask "1"
+$envmapsaturation "1"
+$envmapcontrast "1"
+$envmaptint "[.98 .98 1]"
+$surfaceprop concrete
+"%keywords" agency
+}

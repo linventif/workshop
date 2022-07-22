@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "ocrp/urban/wall/offsetwhitewallmoulded"
+	"$surfaceprop" "plaster"
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/wasted/wasted_kobra_sawmill_d_diffuse"
+	"$bumpmap"    "models/wasted/wasted_kobra_sawmill_d_normal"
+	$surfaceprop "metal"
+
+    $phong 1
+    $phongexponent 33
+    $phongexponenttexture "models/wasted/wasted_kobra_sawmill_d_glossiness"
+    $phongboost    6
+    $phongfresnelranges    "[0.05 0.5 1]"
+}

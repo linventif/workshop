@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_warehouse/toolbox/toolbox"
+	"$surfaceprop" "metal"
+	"$model" 1
+}

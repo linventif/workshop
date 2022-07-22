@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sgtsicktextures/stuccolight2t"
+	"$bumpmap" "sgtsicktextures/stuccocdnorm"
+	"$surfaceprop" "Brick"
+	"%keywords" "stucco"
+}

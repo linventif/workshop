@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\lordvipes\makarmask\makarmask"
+	"$lightwarptexture" "models\lordvipes\makarmask\blshade"
+	
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".7"	
+	"$phongfresnelranges"	"[.1 1 4]"
+	"$halflambert" "0"
+
+
+	"$rimlight" "1"											
+	"$rimlightexponent" "4"										
+	"$rimlightboost" "2"	
+}

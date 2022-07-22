@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/gmod_tower/rubikscube"
+	"$bumpmap" "models/gmod_tower/rubikscube_bump"
+	"$surfaceprop" "plastic"
+}

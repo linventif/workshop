@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\testmodels\macbook_login"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[0.35 0.35 0.35]"
+	"$bumpmap" "models\testmodels\macbook_normal"	
+	
+	"$selfillum" 1
+	
+	
+}

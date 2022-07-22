@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "natalya/white_stripe"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.250"
+}

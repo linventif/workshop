@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ocrp/urban/door2"
+	"$decal" "1"
+	"$decalscale" "0.2"
+	"$surfaceprop" "wood"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\iaa/lowr_diff_000_b_uni"
+                "$bumpmap"     "models\iaa\lowr_normal_000"
+}

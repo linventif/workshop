@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sickness/bkbooth_01"
+	"$bumpmap" "models/sickness/bkbooth_01n"
+	"$surfaceprop" "Wood_Solid"
+}

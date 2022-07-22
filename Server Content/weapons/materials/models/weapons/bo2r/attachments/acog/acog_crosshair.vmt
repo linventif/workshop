@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/bo2r/attachments/acog/acog_crosshair"
+	"$surfaceprop" "Default"
+	"$alphatest" 1
+	"$translucent" 1
+}

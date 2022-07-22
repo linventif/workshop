@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\props\pumpkin_z"
+	"$bumpmap" "models\props\pumpkin_z_normal"
+    	"$selfillum" "1"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\\toronto\Transfer_Box\/Transfer"
+	"$surfaceprop" "metal"
+	"$model"       "1"
+	"%keywords" "Toronto"
+}

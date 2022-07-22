@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/statua/shell/shelldetails1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.125 0.125 0.125]"
+	"$bumpmap" "statua/shell/shelldetails1_nrm"
+	"$halflambert" "1"
+	"$nodecal" "1"
+
+	"$phong" "1"
+	"$phongexponent" "255"
+	"$phongboost" "6"
+	"$phongfresnelranges" "[0.05 0.5 1]"
+}

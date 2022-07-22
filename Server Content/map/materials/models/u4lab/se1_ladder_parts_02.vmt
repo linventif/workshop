@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/U4Lab/SE1_ladder_parts_02"
+	"$surfaceprop" "metal"
+	"$model" 1
+} 

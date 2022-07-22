@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sgtsicktextures/bk_wallext_02"
+	"$bumpmap" "sgtsicktextures/bk_wallext_01n"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]"
+	"$surfaceprop" "Brick"
+}

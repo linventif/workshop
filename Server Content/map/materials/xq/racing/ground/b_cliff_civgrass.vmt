@@ -1,0 +1,19 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "XQ/racing/ground/cliff_sharp"
+	"$basetexture2" "XQ/racing/ground/grass_civ"
+	"$bumpmap" "xq/racing/ground/cliff_sharp_bumpmap"
+	"$bumpmap2" "xq/racing/ground/grass_civ_bumpmap"
+	"$surfaceprop" "rock"
+	"$surfaceprop2" "grass"
+
+	"%tooltexture" "XQ/racing/ground/blendtrackmud_tooltexture"
+
+	"%keywords" "forest"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .05 .05 .05]"
+}

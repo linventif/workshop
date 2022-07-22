@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_tew_seb/eyelash"
+	"$bumpmap" "models/mj_tew_seb/eyelash_n"
+	"$translucent" "1"
+	
+	
+                 $halflambert "1"
+$nocull 1
+"$phong" "0" 
+                 "$phongexponent" "35"
+                 "$phongboost" "0.4"
+                 "$phongfresnelranges" "[.83 .83 .83 ]"
+
+}
+

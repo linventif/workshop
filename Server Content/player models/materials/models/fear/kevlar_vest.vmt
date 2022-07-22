@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models\FEAR/kevlar_vest"
+$nocull "1"
+}

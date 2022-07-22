@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/heavy_shield"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

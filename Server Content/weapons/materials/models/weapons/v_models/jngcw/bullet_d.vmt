@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\jngcw\bullet_d"
+	"$bumpmap" "models\weapons\v_models\jngcw\bullet_n"
+	"$normalmapalphaenvmapmask" "1"
+	"$phongexponent"   "30"
+	"$phong"   "1"
+	"$phongfresnelranges"   "[0.8 0.9 1]"
+
+	"$phongboost"   "2"
+
+                "$PhongAlbedoTint"  "1"
+
+
+
+	"$PhongExponentTexture" "models\weapons\v_models\jngcw\bullet_s"
+
+}

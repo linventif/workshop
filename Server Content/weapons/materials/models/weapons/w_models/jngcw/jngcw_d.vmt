@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\jngcw\jngcw_d"
+	"$bumpmap" "models\weapons\v_models\jngcw\jngcw_N"
+"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.2 0.2 0.2 ]"
+	"$envmapconstrast" "0.20"
+ 
+        	"$phong"     "1"
+        	"$phongalbedoboost" "80"
+	"$phongexponent"  "25"
+        	"$phongboost"   "1"
+       	"$phongfresnelranges" "[.8 .9 1]"
+        	"$phongtint"                   "[0.7 0.9 1]"
+        	"$phongwarptexture"  	"models\weapons\v_models\jngcw\phongwarp"
+	"$phongalbedotint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "40"	
+	"$rimlightboost" "0.05"
+
+}

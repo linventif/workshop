@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+$basetexture "buildings/asph_shingles02_a"
+$surfaceprop rubber
+}

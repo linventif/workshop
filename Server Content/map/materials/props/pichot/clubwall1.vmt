@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "ocrp/clubwall1"
+	"$selfillum" "1"
+	"$bumpmap" "ocrp/clubwall1_nrm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.05 .05 .05]"
+}

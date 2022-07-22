@@ -1,0 +1,16 @@
+
+"vertexlitgeneric"
+{
+	"$color"				"[1 1 1]"
+	"$basetexture"			"env/brush/walls/wall_huron_1st"
+	"$selfillum"			0
+	"$translucent"			0
+	"$alpha"				1
+	"$envmap"				"env_cubemap"
+	"$envmaptint"				"[0.200000003 0.200000003 0.200000003]"
+	"$envmapsphere"				0
+	"$envmapcameraspace"			0
+	"$basealphaenvmapmask"			1
+	"$normalmapalphaenvmapmask"			0
+	"$surfaceprop" "plaster"
+}

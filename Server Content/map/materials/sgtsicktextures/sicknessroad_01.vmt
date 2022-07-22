@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sgtsicktextures/sicknessroad_01"
+	"$bumpmap" "sgtsicktextures/sicknessroad_01n"
+	"$surfaceprop" "Brick"
+	"$surfaceprop2" "Boulder"
+}

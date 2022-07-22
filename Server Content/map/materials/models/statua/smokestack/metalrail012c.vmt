@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/statua/smokestack/metalrail012c"
+	"$surfaceprop" "metalgrate"
+	"$alphatest" 1
+}
+

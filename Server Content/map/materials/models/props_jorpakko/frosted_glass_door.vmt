@@ -1,0 +1,14 @@
+"Refract"
+{
+ 	"$model" 1
+	"$normalmap" "models/props_jorpakko/lyhty_glass_normal"
+	"$dudvmap" "models/props_jorpakko/lyhty_glass_DuDv"
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "[1 1 1]"
+	"$bluramount"		"0.1"
+	"$refracttint" 		"[2 9 15]"
+	"$refractamount" 		"0.02"
+                "$forcerefract" "1"
+

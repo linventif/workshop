@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models\Armacham\Security/tiesandties"
+	"$bumpmap" "Models\Armacham\Security/normalmap_flat"
+}

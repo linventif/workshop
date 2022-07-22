@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "HIGHRISE/SE1_garage_concretewall_01"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "HIGHRISE/SE1_garage_concretewall_01_Normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1]"
+	"$envmapconstrast" "1"
+	"$normalmapalphaenvmapmask" 1
+	"%keywords" "HIGHRISE"
+}

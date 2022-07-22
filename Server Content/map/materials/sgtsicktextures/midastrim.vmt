@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sgtsicktextures/midastrim"
+	"$bumpmap" "sgtsicktextures/midastrimnorml"
+	"$surfaceprop" "Metal"
+	"%keywords" "sickness midas car care"
+}

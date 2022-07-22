@@ -1,0 +1,11 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "WAREHOUSE/SE1_garage_door_01"
+	"$bumpmap" "WAREHOUSE/SE1_garage_door_01_normal"
+        "$envmap" "env_cubemap"
+	"$envmapconstrast" "1"
+	"$envmaptint" "[ .35 .35 .35]"
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "wood"
+	"%keywords" "warehouse"
+}

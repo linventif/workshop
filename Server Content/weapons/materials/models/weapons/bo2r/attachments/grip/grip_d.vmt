@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/bo2r/attachments/grip/grip_d"
+	"$surfaceprop" "Default"
+}

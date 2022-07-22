@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\police_municipale/uppr_diff_000_a_whi"
+                "$bumpmap"     "models\police_municipale\uppr_diff_000_c_norma"
+}

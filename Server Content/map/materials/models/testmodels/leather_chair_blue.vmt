@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$surfaceprop" "carpet"
+	"$baseTexture" "models\testmodels\leather_chair_blue"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[0.3 0.3 0.3]"
+	"$bumpmap" "models\testmodels\leather_chair_normal"	
+}

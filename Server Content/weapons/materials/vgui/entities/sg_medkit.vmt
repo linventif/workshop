@@ -1,0 +1,6 @@
+"UnlitGeneric" 
+{
+	"$baseTexture" "vgui/entities/sg_medkit"
+	"$translucent" "1"
+	"$ignorez" "1"
+}

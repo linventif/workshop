@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "WAREHOUSE/se1_cinderblock_wall_03"
+	"$bumpmap" "WAREHOUSE/se1_cinderblock_wall_03_normal"
+	"$surfaceprop" "concrete"
+	"%keywords" "warehouse"
+}

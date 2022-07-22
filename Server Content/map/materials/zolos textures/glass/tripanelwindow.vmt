@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Zolos textures/Glass/Tripanelwindow"
+	"$normalmap" "Zolos textures/Glass/Tripanelwindow_normal"
+	"$surfaceprop" "Glass"
+	"$surfaceprop2" "Glass"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.5 .5 .5]"
+	"$envmapsaturation" 1
+	"$translucent" 1
+	"$keywords" "Zolo"
+}

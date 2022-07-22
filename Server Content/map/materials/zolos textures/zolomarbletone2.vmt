@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Zolos textures/ZoloMarbleTone2"
+	"$surfaceprop" "Concrete"
+	"$surfaceprop2" "Concrete"
+	"$envmap" "env_cubemap"
+}

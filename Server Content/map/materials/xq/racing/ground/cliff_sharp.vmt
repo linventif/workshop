@@ -1,0 +1,12 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"$basetexture" "xq/racing/ground/cliff_sharp"
+	"$bumpmap" "xq/racing/ground/cliff_sharp_bumpmap"
+	"$surfaceprop" "rock"
+	"%keywords" "rural"
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	"$envmaptint" "[ .10 .10 .10]"
+}

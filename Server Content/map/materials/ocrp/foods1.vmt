@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ocrp/FOODS1"
+	"$decal" "1"
+	"$decalscale" "0.25"
+	"$surfaceprop" "plaster"
+	"$selfillum" "1"
+
+}
+

@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "WAREHOUSE/SE1_brick_02b"
+	"$bumpmap" "WAREHOUSE/SE1_brick_02_Normal"
+	"$surfaceprop" "concrete"
+	"%keywords" "warehouse"
+}

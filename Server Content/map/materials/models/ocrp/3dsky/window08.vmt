@@ -1,0 +1,11 @@
+vertexlitgeneric
+{
+$basetexture "agency\wall\window08"
+$envmap env_cubemap
+$envmapmask "agency\wall\window08_s"
+$envmapsaturation "1"
+$envmapcontrast "1"
+$envmaptint "[.98 .98 1]"
+$surfaceprop concrete
+"%keywords" agency
+}

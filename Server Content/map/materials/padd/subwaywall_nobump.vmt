@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "padd/subwaywall"
+	"$bumpmap" "padd/subwaywall_normal_noround"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "padd/subwaywall_specular"
+}

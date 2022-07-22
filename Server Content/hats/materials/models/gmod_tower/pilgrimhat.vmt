@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gmod_tower/pilgrimhat"
+	"$bumpmap" "models/gmod_tower/pilgrimhat_norm"
+
+	$normalmapalphaenvmapmask 1
+	
+	$phong 1
+	$phongexponent 20
+	$phongboost 10
+	$phongfresnelranges	"[1 .1 .1]"
+}

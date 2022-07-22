@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/advanced_weapon_license/grand_cible"
+	"$surfaceprop" "Metal"
+	"$surfaceprop2" "Metal"
+}

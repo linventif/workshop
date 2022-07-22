@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Zolos textures/Glass/OldWindowDP"
+	"$surfaceprop" "Glass"
+	"$surfaceprop2" "Glass"
+	"%keywords" "Glass; Zolofto"
+	"$translucent" 1
+}

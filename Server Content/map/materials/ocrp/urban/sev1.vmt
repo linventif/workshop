@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ocrp/urban/sev1"
+	"$surfaceprop" "glass"
+	"$selfillum" "1"
+}

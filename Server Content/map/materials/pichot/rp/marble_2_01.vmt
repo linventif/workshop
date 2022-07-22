@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "realworldtextures/newer/2/marble_2_01"
+	"$envmapmask" "realworldtextures/newer/2/marble_2_01_spec"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+}

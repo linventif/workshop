@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/bo2r/attachments/eotech/eotech_d"
+	"$surfaceprop" "Default"
+	"$phong" "1"
+	$phongexponent	5
+	$phongboost				1.0
+	$phongfresnelranges		"[0 0.5 1]"
+
+}

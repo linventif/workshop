@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Pit/se1_concrete_wall_02"
+	"$surfaceprop" "concrete"
+	//"$bumpmap" "Pit/se1_concrete_wall_02_normal"
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[ .1 .1 .1]"
+	//"$envmapconstrast" "1"
+	//"$normalmapalphaenvmapmask" 1
+	"%keywords" "pit"
+}

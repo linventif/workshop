@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/u4lab/se1_duct_metal_01"
+	"$surfaceprop" "metalpanel"
+	"$model" 1
+	"$envmap" "env_cubemap"
+        "$basealphaenvmapmask" 1
+
+} 

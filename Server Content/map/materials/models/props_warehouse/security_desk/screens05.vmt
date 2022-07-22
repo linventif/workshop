@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_warehouse/security_desk/screens05"
+    "$surfaceprop" "metal"
+	"$model" 1
+	"$selfillum" 1
+	"$nocull" 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\highrise\TrashCanAshTray_01"
+	"$surfaceprop" "concrete"
+	"$model" 1
+}

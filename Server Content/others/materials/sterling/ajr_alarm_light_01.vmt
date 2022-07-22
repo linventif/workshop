@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sterling/ajr_alarm_light_01"
+	"$phongexponenttexture" "sterling/green"
+	"$lightwarptexture" "sterling/toon"
+	"$selfillum" 1
+	"$selfillummask" "sterling/ajr_alarm_light_01"
+	"Proxies"
+	{
+		"TextureScroll"
+			{
+			"Texturescrollvar" "$Basetexturetransform"
+			"Texturescrollrate" 0.5
+			"texturescrollangle" 0
+			}
+	}
+}

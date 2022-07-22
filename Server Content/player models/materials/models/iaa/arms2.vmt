@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\iaa/arms2"
+"$bumpmap" "models\iaa/arms_normal"
+}

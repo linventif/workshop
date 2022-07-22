@@ -1,0 +1,13 @@
+"lightmappedgeneric"
+
+{
+
+            "$basetexture" "INTRO/storefront_13d"
+            "$translucent" 1
+            //"$selfillum" 1
+            "$surfaceprop" "glass"
+            //"$envmap" "env_cubemap"
+            //"$envmapmask" "INTRO/SE1_storefront_13"
+            //"$envmaptint" "[ .25 .25 .25]"
+            "%keywords" "INTRO"
+} 

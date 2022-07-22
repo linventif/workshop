@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\natalya\static\flag3"
+	"$nocull" "1"
+	"$surfaceprop" "default"
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"		"models/lordvipes/billyhatcherhat/crest"
+	"$bumpmap" 		"models/lordvipes/billyhatcherhat/hatcherbump"
+	"$selfillum"		 "0"
+	"$halflambert"		 "1"
+
+	"$phong"			"1"
+	"$phongboost"		"4"
+	"$phongfresnelranges"	"[.5 .85 30]"
+	"$phongexponent"		"50"
+	"$PhongBrightnessScalar"	"0.5"
+
+	"$rimlight"			"1"
+	"$rimlightexponent"		"10"
+	"$rimlightboost"		"0.125"									// Boost for ambient cube component of rim lighting
+}

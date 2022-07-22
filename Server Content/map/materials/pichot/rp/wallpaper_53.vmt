@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "realworldtextures2\wall\wallpaper_53"
+	"$bumpmap" "realworldtextures2\wall\wallpaper_53_nrm"
+	"$surfaceprop" "plaster"
+	"$detail" "realworldtextures2\detail\dt_smooth1"
+	"$detailblendfactor" ".5"
+	"$detailscale" "5"
+} //realworld textures version 2 - made by tophattwaffle - please credit me if used! - contact: www.tophattwaffle.com

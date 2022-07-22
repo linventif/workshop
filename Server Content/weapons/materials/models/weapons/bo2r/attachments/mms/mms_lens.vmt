@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\bo2r\attachments\mms\mms_lens_d"
+	"$translucent" 1
+	"$bumpmap" "models\weapons\bo2r\attachments\mms\mms_lens"
+	"$envmap" env_cubemap
+	$envmaptint [0.4 0.4 0.4]
+}

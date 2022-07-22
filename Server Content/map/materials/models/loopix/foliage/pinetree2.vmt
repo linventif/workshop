@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\loopix\foliage\pinetree2"
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.5"
+	"$nocull" 1	
+	"$model" 1
+	"$FlashlightNoLambert" "1"
+	"$bumpmap" "models\loopix\foliage\pinetree_bumpmap"
+	$phong 1
+	$phongboost 1
+	$phongexponent 4
+	$phongfresnelranges "[1 1 1]"
+	$phongexponenttexture "models/tdmcars/shared/skin"
+	$phongalbedotint 1
+}

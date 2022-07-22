@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"natalya\n_metal_black"
+	"$surfaceprop" "metal"
+	"%keywords" "natalya, steel"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmaptint" "[ 0.25 0.25 0.25 ]"
+}

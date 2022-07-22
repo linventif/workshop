@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "bridge/se1_metal_tiles_04"
+	"$surfaceprop" "solidmetal"
+	"$bumpmap" "bridge/se1_metal_tiles_04_normal"
+	"$envmap" "env_cubemap"
+	"$envmapconstrast" "1"
+	"$normalmapalphaenvmapmask" 1
+	"%keywords" "bridge"
+} 

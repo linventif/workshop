@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "nature/gravelfloor002a"
+	"$surfaceprop" "dirt"
+	//"$bumpmap" "nature/gravelfloor002a_normal"
+	//"$parallaxmap" "nature/gravelfloor002a_height"
+	//"$parallaxmapscale" ".0125"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/natalya/props/lamp_01c"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/natalya/props/lamp_01ref"
+	"$nocull"	1
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pichot/rp/map_glife"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.0625"
+	"$surfaceprop" "plaster"
+}

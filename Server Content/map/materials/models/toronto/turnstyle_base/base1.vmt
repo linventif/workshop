@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\\toronto\Turnstyle_Base\/Base1"
+	"$surfaceprop" "metal"
+	"$model"       "1"
+	"%keywords" "Toronto"
+}

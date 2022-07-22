@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "bo2r/attachments/reticles/eotech_reticule"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

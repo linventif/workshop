@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fish/GtaIVTex/tl_bank_ceil"
+	"$surfaceprop" "ceiling_tile"
+	"$bumpmap" "fish/GtaIVTex/tl_bank_ceil_n"
+}

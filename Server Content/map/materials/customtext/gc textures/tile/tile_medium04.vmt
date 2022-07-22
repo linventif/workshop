@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "CustomText/GC Textures/Tile/Tile_Medium04"
+	"$bumpmap" "CustomText/GC Textures/Tile/Tile_Medium04_normal"
+	"$surfaceprop" "Tile"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\\toronto\Tocken_Box\/Token"
+	"$surfaceprop" "metal"
+	"$model"       "1"
+	"%keywords" "Toronto"
+}

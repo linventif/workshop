@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\iaa/feet_diff_000_a_uni"
+                "$bumpmap" "models\iaa/feet_normal_000"
+}

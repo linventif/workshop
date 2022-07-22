@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+$basetexture "agency\glass\extwindow2"
+$bumpmap "agency\glass\extwindow2_n"
+$normalmapalphaenvmapmask "1"
+$surfaceprop glass
+$envmap env_cubemap
+$envmapsaturation "1"
+$envmapcontrast "1"
+$envmaptint "[0.9 0.9 0.92]"
+"%keywords" agency
+}

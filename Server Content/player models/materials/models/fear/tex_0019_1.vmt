@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	 $basetexture "models\FEAR/Tex_0019_1"
+                   $nocull "1"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/cat/catbody"
+                 "$bumpmap"   "models/cat/cat_n"
+}

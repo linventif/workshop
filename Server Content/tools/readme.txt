@@ -72,3 +72,24 @@ More Materials!
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=220336312
 PermaProps
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=732867617
+Voice Amplifier SWEP
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1597409940
+Light Blue Dark Derma Skin
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=700647856
+DarkRP : Traduction française HQ
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=167809847
+Fly By Sounds
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=235481161
+Crystal Clear Sounds
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=224378049
+Night Vision
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2214712098
+Ultimate Workshop Downloader

@@ -1,0 +1,6 @@
+vertexlitgeneric
+{
+$basetexture "plaster/plaster_ext_02"
+$surfaceprop plaster
+"%keywords" l4d2 "%keywords" l4d2
+}

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/bo2r_hamr"
+	"$alphatest" 1
+}

@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "Arkham Origins Enigma", "models/player/bobert/Enigma.mdl" ) list.Set( "PlayerOptionsModel",  "Arkham Origins Enigma",                     "models/player/bobert/Enigma.mdl" ) 

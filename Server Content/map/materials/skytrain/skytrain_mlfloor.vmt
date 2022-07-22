@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "skytrain/skytrain_mlfloor"
+	"$bumpmap" "skytrain/floor_bump"
+}

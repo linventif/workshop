@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "toronto/subway/North_York_Center_Tiles"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+	
+	"$envmapcontrast"  ".1"
+	"$envmapsaturation"  ".8"
+	"$envmaptint" "[ .2 .2 .2]"
+	
+	"%keywords" "toronto"
+}

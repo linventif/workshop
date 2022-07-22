@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/burgershelf/bm_burgershot_box"
+	"$surfaceprop" "carton"
+}

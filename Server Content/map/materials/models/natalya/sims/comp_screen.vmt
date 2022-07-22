@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/natalya/sims/comp_screen"
+	"$selfillum" 1
+}

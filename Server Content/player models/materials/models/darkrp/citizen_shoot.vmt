@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\darkrp/citizen_shoot"
+	"$bumpmap"     "models\darkrp/citizen_sheet_normal"
+	"$halflambert" 1
+}

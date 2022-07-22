@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sickness/checkout_02"
+	"$surfaceprop" "Computer"
+}

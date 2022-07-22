@@ -1,0 +1,10 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "fm/concrete/concrete_road_001"
+	"$surfaceprop" "concrete"
+
+	"$detail" "fm\concrete\concrete_detail_001"
+	"$detailscale" "2"
+	"$detailblendfactor" 0.75
+	"$detailblendmode" 0
+}

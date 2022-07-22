@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture" "models\highrise\handrail_02_center"
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$translucent" 1
+	"$nocull" 1
+}
+	

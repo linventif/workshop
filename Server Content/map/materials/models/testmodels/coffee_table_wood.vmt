@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$surfaceprop" "wood"
+	"$baseTexture" "models\testmodels\coffee_table_wood"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$bumpmap" "models\testmodels\coffee_table_wood_normal"	
+}

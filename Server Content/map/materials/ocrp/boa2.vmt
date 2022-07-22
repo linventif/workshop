@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture"	"ocrp/boa2"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.150"
+	"$surfaceprop" "plaster"
+
+}

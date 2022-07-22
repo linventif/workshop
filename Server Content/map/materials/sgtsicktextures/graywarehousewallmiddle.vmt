@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sgtsicktextures/graywarehousewallmiddle"
+	"$surfaceprop" "Brick"
+	"$bumpmap" "sgtsicktextures/brownwarehousewallmiddlenormal"
+	"%keywords" "warehouse sickness sick"
+}

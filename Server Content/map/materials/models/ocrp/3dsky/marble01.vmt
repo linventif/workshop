@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+$basetexture "agency\wall\marble01"
+$envmap env_cubemap
+$envmapsaturation "1"
+$envmapcontrast "1"
+$envmaptint "[.48 .48 .5]"
+$surfaceprop marble
+"%keywords" agency
+}

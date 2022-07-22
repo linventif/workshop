@@ -1,0 +1,17 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "HIGHRISE/SE1_acoustic_stairwell_ceiling_01"
+	"$surfaceprop" "plaster"
+	"$bumpmap" "HIGHRISE/SE1_acoustic_stairwell_ceiling_01_Normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .3 .3 .3 ]"
+	"$envmapconstrast" "1"
+	"$normalmapalphaenvmapmask" 1
+	"%keywords" "highrise"
+} 
+
+
+
+
+
+

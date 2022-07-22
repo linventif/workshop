@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mj_tew_seb/face1"
+	"$bumpmap" "models/mj_tew_seb/face1_n"
+	
+	
+                 $halflambert "1"
+$nocull 0
+"$phong" "1" 
+                 "$phongexponent" "5"
+                 "$phongboost" "0.2"
+                 "$phongfresnelranges" "[.83 .83 .83 ]"
+
+}
+

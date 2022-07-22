@@ -1,0 +1,11 @@
+
+"vertexlitgeneric"
+{
+	"$color"				"[1 1 1]"
+	"$basetexture"			"env/brush/walls/wall_green_dingy"
+	"$selfillum"			0
+	"$translucent"			0
+	"$alpha"				1
+	"$bumpmap"				"env/brush/walls/wall_red_dingy_normal"
+	"$surfaceprop" "plaster"
+}

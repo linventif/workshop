@@ -1,0 +1,23 @@
+VertexLitGeneric
+
+{
+	"$basetexture"	"models\weapons\v_models\SW500\saw500_diffuse.vtf"
+	"$bumpmap" 	"models\weapons\v_models\SW500\saw500_normal.vtf"
+
+
+	"$normalmapalphaenvmapmask" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint"                   "[0.2 0.2 0.2]"
+
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "55"
+	"$phongtint" "[0.35 0.55 1]"
+	"$phongfresnelranges" "[1 9 9]"
+	"$phongexponenttexture" "models\weapons\v_models\SW500\sw500_spec.vtf"
+	"$Phongwarptexture" 	"models\weapons\v_models\SW500\sw500_irid.vtf"
+
+}

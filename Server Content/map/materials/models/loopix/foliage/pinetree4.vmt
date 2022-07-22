@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\loopix\foliage\pinetree4"
+
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.5"
+
+	"$nocull" 1	
+	"$model" 1
+
+	"$FlashlightNoLambert" "1"
+
+	"$bumpmap" "models\loopix\foliage\pinetree_bumpmap"
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	"$envmaptint" "[ .10 .10 .10]"
+}

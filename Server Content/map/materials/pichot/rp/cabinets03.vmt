@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+$basetexture "wood/cabinets03"
+$surfaceprop wood_panel
+}

@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+"$baseTexture" "advanced_weapon_license/awl_wait1"
+"$translucent" "1"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "60"
+}
+}
+}

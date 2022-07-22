@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\cako\scope"
+
+	"$nocull" "1"
+	"$surfaceprop" "Glass"
+	"$translucent" 1
+
+}

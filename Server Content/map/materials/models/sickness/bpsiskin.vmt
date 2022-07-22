@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sickness/bpsiskin"
+	"$surfaceprop" "Metal_Box"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.2 .2 .2]"
+	
+	"$bumpmap" "models\sickness\bpsinorm"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".3"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1"	
+}

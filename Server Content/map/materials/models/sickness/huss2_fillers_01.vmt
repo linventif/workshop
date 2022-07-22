@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sickness/huss2_fillers_01"
+	"$surfaceprop" "Computer"
+}

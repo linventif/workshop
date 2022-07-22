@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+ "$basetexture" "models/foliage/palm_top"
+	"$translucent" 1
+}

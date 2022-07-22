@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\captainbigbutt\skeyler\hats\afro\afro"
+	"$bumpmap" "models\captainbigbutt\skeyler\hats\afro\afro_norm"
+
+	"$phong" "1"
+	"$phongexponent" "2"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "64"
+	"$rimlightboost" "0.05"
+}

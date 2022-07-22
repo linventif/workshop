@@ -1,0 +1,15 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "ocrp/cinemasign1"
+"$surfaceprop" "metal"
+"$selfillum" "1"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "4"
+}
+}
+}

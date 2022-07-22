@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fish/GtaIVTex/dc_alupanel01"
+	"$surfaceprop" "tile"
+	"$bumpmap" "fish/GtaIVTex/dc_alupanel01_n"
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"		"models/lordvipes/klonoahat/klonoahat"
+	"$bumpmap"		"models/lordvipes/klonoahat/kbump"
+	"$selfillum"		 "0"
+	"$halflambert"		 "1"
+
+	"$phong"			"1"
+	"$phongboost"		"1"
+	"$phongfresnelranges"	"[.1 .1 .1]"
+	"$phongexponent"		"80"
+	"$PhongBrightnessScalar"	"0.5"
+
+	"$rimlight"			"1"
+	"$rimlightexponent"		"10"
+	"$rimlightboost"		"0.1"									// Boost for ambient cube component of rim lighting
+}

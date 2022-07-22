@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/U4Lab/SE1_duct_vent_01"
+	"$surfaceprop" "plastic"
+	"$model" 1
+} 

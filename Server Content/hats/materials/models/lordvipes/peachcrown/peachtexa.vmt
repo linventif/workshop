@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lordvipes/peachcrown/PeachTexA"
+	"$bumpmap" "models/lordvipes/peachcrown/bump"
+	"$surfaceprop" "Glass"
+
+
+
+	$phong 1
+	$phongexponent 20
+	$phongboost	3
+	$phongfresnelranges	"[0.3 0.2 1]"
+}

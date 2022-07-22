@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+$basetexture "agency\floor\marble01a"
+$bumpmap "agency\floor\marble01_n"
+$normalmapalphaenvmapmask "1"
+$envmap env_cubemap
+$envmapsaturation ".2"
+$envmapcontrast ".5"
+$envmaptint "[.5 0.5 0.53]"
+$surfaceprop marble
+"%keywords" agency
+}

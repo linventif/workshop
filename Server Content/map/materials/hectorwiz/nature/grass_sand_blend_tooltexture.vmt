@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hectorwiz/nature/grass_sand_blend_01"
+	"$basetexture2" "hectorwiz/nature/grass_sand_blend_02"
+	"$surfaceprop" "Dirt"
+	"$surfaceprop2" "Grass"
+	"$translucent" 1
+}

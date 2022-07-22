@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\darkrp/lowr_diff_002_a_whi"
+                "$bumpmap"     "models\darkrp/lowr_diff_001_normal"
+}

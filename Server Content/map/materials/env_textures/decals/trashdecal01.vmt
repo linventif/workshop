@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "env_textures/decals/trashdecal01"
+	"$surfaceprop" "concrete"
+	"$decal" 1
+	"$decalscale" 0.2
+	"$translucent" 1
+
+}

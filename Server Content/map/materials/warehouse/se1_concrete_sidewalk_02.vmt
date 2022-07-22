@@ -1,0 +1,11 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "WAREHOUSE/SE1_concrete_sidewalk_02"
+	"$bumpmap" "WAREHOUSE/SE1_concrete_sidewalk_02_normal"
+        //"$envmap" "env_cubemap"
+	//"$envmapconstrast" "1"
+	//"$envmaptint" "[ .1 .1 .1]"
+	//"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "concrete"
+	"%keywords" "warehouse"
+}

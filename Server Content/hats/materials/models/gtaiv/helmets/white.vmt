@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gtaiv\helmets/white"
+	"$bumpmap" "models\gtaiv\helmets/helmet_n"
+}

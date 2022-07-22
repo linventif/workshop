@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture"    "models/lordvipes/daftpunk/silver"
+	"$bumpmap"        "models/lordvipes/daftpunk/silver_nrm"
+	"$nocull"         "1"
+
+	"$phong" "1"
+	"$phongexponent" "66"
+	"$phongboost" "5"	
+	"$phongfresnelranges"	"[.5 1 9]"
+	"$phongtint"			"[.7 .7 1]"
+	
+	"$envmap"		"models/lordvipes/silver_env2"
+	"$envmaptint"	"[.5 .5 .5]"
+	"$color2"		"[.55 .58 .68]"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+}

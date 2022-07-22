@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "sgtsicktextures/stuccolight"
+	"$bumpmap" "sgtsicktextures/stuccocdnorm"
+	"$surfaceprop" "brick"
+	"%keywords" "stucco"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\\toronto\Turnstyle_Spinner\/Spinner"
+	"$surfaceprop" "metal"
+	"$model"       "1"
+	"%keywords" "Toronto"
+}

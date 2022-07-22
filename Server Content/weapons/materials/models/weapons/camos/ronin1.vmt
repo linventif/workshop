@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/camos/ronin1"
+	$detail "models/weapons/camos/detail_camo"
+	$detailscale 1.6
+	$detailblendfactor 0.02
+	$detailblendmode 2
+	$envmap env_cubemap
+	$envmaptint "[0.05 0.05 0.05]"
+	"$phong" "1"
+	"$bumpmap" "models/weapons/camos/camo_n"
+	$phongexponent	5
+	$phongboost				1.0
+	$phongfresnelranges		"[0 0.5 1]"
+
+}

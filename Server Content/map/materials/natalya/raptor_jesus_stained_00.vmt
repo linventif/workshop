@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "natalya/raptor_jesus_stained_00"
+	"$surfaceprop" "Glass"
+	"%keywords" "Natalya, Glass, Raptor Jesus"
+	"$selfillum" "1"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "natalya/raptor_jesus_stained_ref_00"
+}

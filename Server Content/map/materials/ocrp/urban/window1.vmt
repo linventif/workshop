@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ocrp/urban/window1"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "ocrp/urban/window1e"
+	"$decal" "1"
+	"$decalscale" "0.125"
+	"$surfaceprop" "glass"
+}

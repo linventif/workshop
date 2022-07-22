@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/advanced_weapon_license/barre"
+	"$surfaceprop" "Metal"
+	
+	$phong			"1"
+
+	$phongexponent		"5"		
+	$phongboost		"5.0"
+	$phongfresnelranges	"[0 0.5 1]"
+
+	$rimlight               "1"
+	$rimlightexponent      " 2"
+	$rimlightboost         ".2"			
+}
