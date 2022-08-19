@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "craphead_scripts/ocrp2/props_meow/weapons/medpack"
+	"$alphatest" 1
+	"$bumpmap"     "craphead_scripts/ocrp2/props_meow/weapons/medpack_normal"
+	"$normalmapalphaenvmapmask" 1
+
+	"$phong"                    1
+	"$phongboost"               2
+	"$phongfresnelranges"       "[.2 .5 1]"
+	"$phongexponent"            "10"
+    "$phongalbedotint"          1
+	
+
+
+	"$halflambert" "1"
+	
+	"$rimlight"                 1
+	"$rimlightexponent"         10
+	"$rimlightboost"            .25
+
+}

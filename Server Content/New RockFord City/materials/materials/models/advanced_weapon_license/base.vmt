@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/advanced_weapon_license/base"
+
+
+	$rimlight               "1"
+	$rimlightexponent       "2"
+	$rimlightboost         ".2"	
+}

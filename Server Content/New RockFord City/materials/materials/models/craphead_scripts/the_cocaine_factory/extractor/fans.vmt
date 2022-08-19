@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/craphead_scripts/the_cocaine_factory/extractor/fans"
+
+        "$angle" 0.0
+        "$translate" "[0 0]"
+        "$center" "[.5 .5]"
+
+        "Proxies"
+        {
+            "LinearRamp"
+            {
+                "rate" -500
+                "initialValue" 0
+                "resultVar" "$angle"
+            }
+		
+            "TextureTransform"
+            {
+                "translateVar" "$translate"
+                "rotateVar" "$angle"
+                "centerVar" "$center"
+                "resultVar" "$basetexturetransform"
+            }			
+        }	
+}

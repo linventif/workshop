@@ -1,0 +1,56 @@
+"UnlitTwoTexture"
+{
+	//Cheap and easy way of simulating fire effect i guess? (rev 30/04/19)
+	"$basetexture" "models/craphead_scripts/the_cocaine_factory/stove/gradient"
+	"$texture2" "models/craphead_scripts/the_cocaine_factory/stove/plasma"
+ 	"$model" "1"
+	"$decal" "1"
+	"$nocull" "1"
+
+	"$color2" "[0 1 4]"
+	"$additive" "1"
+
+
+        "$angle" 0.0
+        "$translate" "[0 0]"
+        "$center" "[.5 .5]"
+		"$scale" "[.15 .15]"
+		"$num" ".6"
+		"$num2" "0"
+
+        "Proxies"
+        {
+            "LinearRamp"
+            {
+                "rate" .5
+                "initialValue" 0
+                "resultVar" "$num2"
+            }
+			
+			"LinearRamp"
+            {
+                "rate" .05
+                "initialValue" 0
+                "resultVar" "$translate[0]"
+            }
+
+			"Add"
+			{
+			srcVar1 $num
+			srcVar2 $num2
+			resultvar "$translate[1]"
+			}
+			
+
+			
+            "TextureTransform"
+            {
+                "translateVar" "$translate"
+                "rotateVar" "$angle"
+                "centerVar" "$center"
+				"scaleVar" 	"$scale"
+                "resultVar" "$texture2transform"
+            }			
+        }
+
+}

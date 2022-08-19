@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/craphead_scripts/the_cocaine_factory/utility/pot_soda"
+	"$basetexturetransform" "center .5 .5 scale 4 2 rotate 0 translate 0 0"
+
+	"$detail" "models/craphead_scripts/the_cocaine_factory/drying_rack/cocaine_detail"
+	"$detailtexturetransform" "center .5 .5 scale 1 .5 rotate 0 translate 0 0"
+	"$detailscale" "1"
+	"$detailblendmode" "0"
+	"$detailblendfactor" ".75"	
+
+
+
+	"$selfillum" "1"
+
+
+}
+

@@ -1,0 +1,13 @@
+"MonitorScreen"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_pizza/zpizmak_oven_main_diff"
+	"$selfIllum"			1
+
+	"$bumpMap"				"zerochain/props_pizza/zpizmak_oven_main_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+}

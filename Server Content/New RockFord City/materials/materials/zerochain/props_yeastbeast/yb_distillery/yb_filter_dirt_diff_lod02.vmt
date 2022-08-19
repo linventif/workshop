@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"	
+	
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_distillery/yb_filter_dirt_diff_lod02"
+	
+	$surfaceprop metal
+	$model 1
+}

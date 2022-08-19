@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/owain_mask_diffuse"	
+	"$bumpmap" "models/freeman/owain_mask_norm"
+	"$phongexponenttexture" "models/freeman/owain_mask_exponent"
+	"$model" "1"
+	"$phong" "1"
+	"$halflambert" "0"
+	"$phongboost" "1"	
+	"$phongtint" "[0 0 0]"
+	"$phongalbedotint" "0"
+	"$phongfresnelranges" "[1 1 1]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "2"
+
+// Tinting
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0"
+}

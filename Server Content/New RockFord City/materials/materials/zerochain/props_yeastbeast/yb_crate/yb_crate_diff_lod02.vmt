@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_crate/yb_crate_diff_lod02"
+
+	$surfaceprop wood
+	$model 1
+}

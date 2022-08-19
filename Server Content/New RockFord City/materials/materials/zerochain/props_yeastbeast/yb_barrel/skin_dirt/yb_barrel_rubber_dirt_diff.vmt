@@ -1,0 +1,33 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_barrel/skin_dirt/yb_barrel_rubber_diff"
+
+
+	$bumpMap				"zerochain/props_yeastbeast/yb_barrel/skin_dirt/yb_barrel_rubber_nrm"
+	$normalmapalphaenvmapmask 1
+	
+	$surfaceprop metal
+	$model 1
+	
+	$halflambert 1
+	
+	$phong 1
+	$phongboost 1
+
+	$phongfresnelranges "[1 2 3]"
+	$phongexponent 25
+	$phongalbedotint 1	
+	
+
+	$envmap env_cubemap
+	$envmapsaturation 1
+	$envmapcontrast 1
+	$envmapfresnel 2
+	$envmapFresnelMinMaxExp "[1 2 3]"
+	$envmaptint "[0.01 0.01 0.01]"
+
+	$rimlight               1
+		$rimlightexponent      1000
+		$rimlightboost         2
+}

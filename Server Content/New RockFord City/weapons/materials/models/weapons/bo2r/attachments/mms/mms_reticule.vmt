@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/weapons/bo2r/attachments/mms/mms_reticule"
+	"$alphatest" 1
+	"$translucent" 1
+
+
+}

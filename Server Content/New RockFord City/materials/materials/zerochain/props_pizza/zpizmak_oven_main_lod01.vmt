@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_pizza/zpizmak_oven_main_diff"
+
+	"$bumpMap"				"zerochain/props_pizza/zpizmak_oven_main_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+	
+	"$halflambert" 1
+
+}

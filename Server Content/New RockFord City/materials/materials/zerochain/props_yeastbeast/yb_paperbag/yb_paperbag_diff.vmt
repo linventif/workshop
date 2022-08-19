@@ -1,0 +1,38 @@
+"VertexLitGeneric"
+{
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"	
+	
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_paperbag/yb_paperbag_diff"
+
+	$bumpMap				"zerochain/props_yeastbeast/yb_paperbag/yb_paperbag_nrm"
+	$normalmapalphaenvmapmask 1
+	
+	$surfaceprop cardboard
+	$model 1
+	
+	$halflambert 1
+	
+	$phong 1
+	$phongboost 1
+
+	$phongfresnelranges "[1 2 3]"
+	$phongexponent 25
+	$phongalbedotint 1	
+	
+	$detail detail\noise_detail_01
+	$detailscale 15
+	$detailblendfactor 0.3
+	$detailblendmode 0	
+
+	$envmap env_cubemap
+	$envmapsaturation 1
+	$envmapcontrast 1
+	$envmapfresnel 2
+	$envmapFresnelMinMaxExp "[1 2 3]"
+	$envmaptint "[0.01 0.01 0.01]"
+
+	$rimlight               1
+		$rimlightexponent      1
+		$rimlightboost         1
+}

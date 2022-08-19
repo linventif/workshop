@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/ckevlar_furnace/lamp_diff"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "plastic"
+}
+
+

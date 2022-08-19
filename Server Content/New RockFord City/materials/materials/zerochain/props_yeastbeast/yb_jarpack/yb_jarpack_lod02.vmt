@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_jarpack/yb_jarpack_lod02"
+	
+	$surfaceprop paper
+	$model 1
+}

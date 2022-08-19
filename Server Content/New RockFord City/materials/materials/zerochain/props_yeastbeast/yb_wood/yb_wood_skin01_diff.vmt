@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_wood/yb_wood_skin01_diff"
+
+	$bumpMap				"zerochain/props_yeastbeast/yb_wood/yb_wood_nrm"
+	$normalmapalphaenvmapmask 1
+	
+	$surfaceprop wood
+	$model 1
+	
+	$halflambert 1
+	
+	$phong 1
+	$phongboost 0.01
+
+	$phongfresnelranges "[0.1 0.1 0.1]"
+	$phongexponent 25
+
+    $selfillum 1
+    $selfillummask "zerochain/props_yeastbeast/yb_wood/yb_wood_skin01_em"
+	
+
+}

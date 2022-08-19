@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/craphead_scripts/the_cocaine_factory/utility/leaves_single"
+	"$alphatest" 1
+	"$nocull" "1"
+	"$bumpmap" "models/craphead_scripts/the_cocaine_factory/utility/leaves_single_normal"	
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "20"
+	"$phongfresnelranges" "[1 3 7]"
+	"$phongtint" "[.5 1 .5]"
+	
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.02 .02 .02]"		
+	
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" ".5"	
+}

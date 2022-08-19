@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_pizza/zpizmak_oven_main_diff"
+	
+
+	"$translucent"			1
+	
+	"$nocull" 1
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+	
+	"$halflambert" 1
+	
+}

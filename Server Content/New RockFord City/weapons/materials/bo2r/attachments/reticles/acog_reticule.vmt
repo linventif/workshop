@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "bo2r/attachments/reticles/acog_reticule"
+	"$alphatest" 1
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

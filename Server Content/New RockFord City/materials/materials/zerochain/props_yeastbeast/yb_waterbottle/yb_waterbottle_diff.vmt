@@ -1,0 +1,39 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_waterbottle/yb_waterbottle_diff"
+
+	"$alphatest"			1
+	$alphatestreference .5
+    $allowalphatocoverage 1
+	
+	$bumpMap				"zerochain/props_yeastbeast/yb_waterbottle/yb_waterbottle_nrm"
+	$normalmapalphaenvmapmask 1
+	
+	$surfaceprop plastic
+	$model 1
+	
+	$halflambert 1
+	
+	$phong 1
+	$phongboost 2
+
+	$phongfresnelranges "[1 2 3]"
+	$phongexponent 5
+	$phongalbedotint 1	
+	
+	$detail detail\noise_detail_01
+	$detailscale 7
+	$detailblendfactor 0.3
+	$detailblendmode 0
+	
+	$envmap env_cubemap
+	$envmapsaturation 1
+	$envmapcontrast 1
+	$envmapfresnel 3
+	$envmapFresnelMinMaxExp "[1 2 3]"
+	$envmaptint "[0.1 0.1 0.1 ]"
+
+	$rimlight               1
+		$rimlightexponent      25
+		$rimlightboost         0.01
+}

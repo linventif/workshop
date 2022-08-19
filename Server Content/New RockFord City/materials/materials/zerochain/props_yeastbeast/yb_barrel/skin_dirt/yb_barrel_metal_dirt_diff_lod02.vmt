@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_barrel/skin_dirt/yb_barrel_metal_diff_lod02"
+
+	$bumpMap				"zerochain/props_yeastbeast/yb_barrel/skin_dirt/yb_barrel_metal_nrm_lod02"
+	$normalmapalphaenvmapmask 1
+	
+	$surfaceprop metal
+	$model 1
+	
+	$phong 1
+	$phongboost 1
+
+	$phongfresnelranges "[1 2 3]"
+	$phongexponent 2
+}

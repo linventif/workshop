@@ -1,0 +1,5 @@
+ENT.Type = "anim"
+ENT.Base = "base_entity"
+ENT.PrintName = "Medkit"
+ENT.Author = "Gmod4phun"
+ENT.Category = "CAP Extra Stuff"

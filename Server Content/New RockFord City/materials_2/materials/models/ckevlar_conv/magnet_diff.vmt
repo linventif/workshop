@@ -1,0 +1,15 @@
+vertexlitgeneric
+{
+	$basetexture "models/ckevlar_conv/magnet_diff"
+	$bumpmap "models/ckevlar_conv/magnet_nor"
+	
+	$phong 1
+	$phongboost 4
+	$phongfresnelranges "[.3 .7 1]"
+	$phongexponenttexture "models/ckevlar_conv/magnet_phong"
+	$phongalbedotint 1
+
+	$envmap env_cubemap // "lightprobes\testcase_day_hdr"
+	$envmaptint "[.1 .1 .1]"
+	$basealphaenvmapmask 1
+}

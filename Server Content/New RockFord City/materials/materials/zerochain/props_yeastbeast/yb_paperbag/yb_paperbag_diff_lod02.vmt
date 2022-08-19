@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"	
+	
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_paperbag/yb_paperbag_diff_lod02"
+
+	$surfaceprop cardboard
+	$model 1
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_jar/yb_jar_diff_lod02"
+
+	$surfaceprop metal
+	$model 1
+}

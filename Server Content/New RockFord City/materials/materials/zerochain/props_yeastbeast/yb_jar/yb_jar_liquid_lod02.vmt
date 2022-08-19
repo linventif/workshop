@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$color2" "[0.862 0.568 0.313]"
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_barrel/yb_barrel_liquid"
+
+	"$surfaceprop" "slime"
+	"$model" 1
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_distillery/yb_condenser_diff_lod02"
+
+	$surfaceprop metal
+	$model 1
+}

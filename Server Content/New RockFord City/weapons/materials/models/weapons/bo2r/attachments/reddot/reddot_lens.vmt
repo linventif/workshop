@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/bo2r/attachments/reddot/reddot_lens"
+	"$alphatest" 1
+}

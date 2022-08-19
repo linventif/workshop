@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/pumpkin_diffuse"	
+	"$bumpmap" "models/freeman/pumpkin_norm"
+	"$phongexponenttexture" "models/freeman/pumpkin_exponent"
+	"$model" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]"
+
+	"$phong" "1"
+	"$halflambert" "0"
+	"$phongboost" ".8"	
+	"$phongtint" "[1 1 1]"
+	"$phongalbedotint" "0"
+	"$phongfresnelranges" "[1 1 1]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "1"
+	"$normalmapalphaenvmapmask" "1"
+	"$selfillum" "1"
+	
+
+}

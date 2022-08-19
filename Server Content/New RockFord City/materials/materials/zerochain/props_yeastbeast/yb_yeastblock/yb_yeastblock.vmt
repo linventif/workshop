@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_yeastblock/yb_yeastblock"
+
+	$bumpmap  "null-bumpmap"
+	
+	$surfaceprop paper
+	$model 1
+	
+	$halflambert 1
+	
+	$detail detail\noise_detail_01
+	$detailscale 10
+	$detailblendfactor 0.1
+	$detailblendmode 0		
+	
+	$phong 1
+	$phongboost 0.1
+
+	$phongfresnelranges "[1 1 1]"
+	$phongexponent 1
+	$phongalbedotint 1	
+
+
+	$rimlight               1
+		$rimlightexponent      5
+		$rimlightboost        1
+}

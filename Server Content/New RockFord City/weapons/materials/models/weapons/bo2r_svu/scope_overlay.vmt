@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/weapons/bo2r_svu/scope_overlay"
+	"$nolod" 1
+	"$translucent" 1
+}

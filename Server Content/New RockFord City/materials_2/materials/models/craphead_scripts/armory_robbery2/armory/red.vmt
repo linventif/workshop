@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/craphead_scripts\armory_robbery2/armory/light_mask"
+	"$additive" 1
+	"$decal" "1"
+	"$color2" "[1 0 0]"
+}

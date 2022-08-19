@@ -1,0 +1,44 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/craphead_scripts/the_cocaine_factory/utility/water_v2"
+	"$bumpmap" "dev\water_normal"
+
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "40"
+	"$phongfresnelranges" "[1 1 1]"
+	
+	"$detail" "dev/water"
+	"$detailscale" "1"
+	"$detailblendmode" "4"
+	
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.1 .1 .1]"		
+	
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "1"	
+	
+	
+    "Proxies"
+   {
+   
+	        "AnimatedTexture"
+      {
+         "animatedtexturevar" "$bumpmap"
+         "animatedtextureframenumvar" "$bumpframe"
+         "animatedtextureframerate" "15"
+      }
+	  
+	  	        "AnimatedTexture"
+      {
+         "animatedtexturevar" "$detail"
+         "animatedtextureframenumvar" "$detailframe"
+         "animatedtextureframerate" "15"
+      }
+   }	
+}

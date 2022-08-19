@@ -1,0 +1,36 @@
+"VertexLitGeneric"
+{
+	"$color"				"[1 1 1]"
+	"$baseTexture"			"zerochain/props_yeastbeast/yb_crate/yb_crate_diff"
+
+	$bumpMap				"zerochain/props_yeastbeast/yb_crate/yb_crate_nrm"
+	$normalmapalphaenvmapmask 1
+	
+	$surfaceprop wood
+	$model 1
+	
+	$halflambert 1
+	
+	$phong 1
+	$phongboost 1
+
+	$phongfresnelranges "[1 2 3]"
+	$phongexponent 25
+	$phongalbedotint 1	
+	
+	$detail detail\noise_detail_01
+	$detailscale 10
+	$detailblendfactor 0.2
+	$detailblendmode 0	
+
+	$envmap env_cubemap
+	$envmapsaturation 1
+	$envmapcontrast 1
+	$envmapfresnel 2
+	$envmapFresnelMinMaxExp "[1 2 3]"
+	$envmaptint "[0.01 0.01 0.01]"
+
+	$rimlight               1
+		$rimlightexponent      100
+		$rimlightboost         1
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/ckevlar_loom/cloth_diff_trans"
+	"$surfaceprop" "Glass"
+	"$translucent" 1
+}

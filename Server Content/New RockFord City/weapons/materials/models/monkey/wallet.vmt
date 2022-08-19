@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"models\monkey\wallet"
+	"$bumpmap" 					"models\monkey\wallet_normal"
+}

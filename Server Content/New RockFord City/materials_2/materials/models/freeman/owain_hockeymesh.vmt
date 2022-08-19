@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/owain_mesh"
+	"$alphatest" "1"
+	"$translucent" "1"
+
+}

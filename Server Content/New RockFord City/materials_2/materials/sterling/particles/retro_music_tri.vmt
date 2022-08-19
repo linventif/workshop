@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sterling/particles/retro_music_tri"
+	$vertexcolor 1
+	$vertexalpha 1
+	$translucent 1
+	Proxies{
+		Sine
+		{
+			resultVar	$color2
+			sineperiod	3
+			sinemin		0.5
+			sinemax		1
+		}
+	}
+}

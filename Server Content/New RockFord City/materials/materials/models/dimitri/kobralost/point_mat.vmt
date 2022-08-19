@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dimitri/kobralost/point_mat"
+	"$surfaceprop" "metal"
+}

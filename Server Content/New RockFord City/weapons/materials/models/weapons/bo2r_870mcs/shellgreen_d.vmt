@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/bo2r_870mcs/shellgreen_d"
+	"$bumpmap" "models/weapons/bo2r_870mcs/870mcs_n"
+}

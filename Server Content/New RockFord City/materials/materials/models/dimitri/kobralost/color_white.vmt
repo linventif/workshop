@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dimitri/kobralost/color_white"
+
+	"$envmap" env_cubemap
+	"$envmapmask" "models/dimitri/kobralost/color_white"
+	"$envmapsaturation" "1"
+	"$envmapcontrast" "1"
+	"$envmaptint" "[.2 .2 .2]"
+	"$surfaceprop" "metal"
+	"$model" 1
+}

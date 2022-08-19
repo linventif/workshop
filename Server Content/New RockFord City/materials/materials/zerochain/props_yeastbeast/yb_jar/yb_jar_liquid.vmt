@@ -1,0 +1,18 @@
+"Refract"
+{
+	"$surfaceprop" "glassbottle"
+	"$model" 1
+	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 0.796 0.619]"
+
+	
+	$normalmap "Nature/slime_normal"
+	
+	$refracttint "[1 0.796 0.619]"
+ 	"$refractamount" "0.1"
+	"$forcerefract" 1
+ 	"$bluramount" "1"
+
+}
+

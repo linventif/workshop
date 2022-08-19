@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\raging_bulk\body(2)"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\raging_bulk\body_ref(2)"
+}
+

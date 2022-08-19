@@ -1,0 +1,51 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/craphead_scripts/the_cocaine_factory/extractor/pixels"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$nocull" 1
+
+        "$angle" 180
+        "$translate" "[0 0]"
+        "$center" "[.5 .5]"
+		"$scale" "[1 1]"
+		"$num" ".6"
+		"$num2" "0"
+
+        "Proxies"
+        {
+            "LinearRamp"
+            {
+                "rate" .8
+                "initialValue" 0
+                "resultVar" "$num2"
+            }
+			
+			"LinearRamp"
+            {
+                "rate" .1
+                "initialValue" 0
+                "resultVar" "$translate[0]"
+            }
+
+			"Add"
+			{
+			srcVar1 $num
+			srcVar2 $num2
+			resultvar "$translate[1]"
+			}
+			
+
+			
+            "TextureTransform"
+            {
+                "translateVar" "$translate"
+                "rotateVar" "$angle"
+                "centerVar" "$center"
+				"scaleVar" 	"$scale"
+                "resultVar" "$basetexturetransform"
+            }			
+        }
+
+
+}

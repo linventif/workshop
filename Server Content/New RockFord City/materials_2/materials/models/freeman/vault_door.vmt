@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/vault_door_diffuse"	
+	"$bumpmap" "models/freeman/vault_door_norm"
+	"$phongexponenttexture" "models/freeman/vault_door_exponent"
+	"$model" "1"
+	"$phong" "1"
+	"$halflambert" "0"
+	"$phongboost" "1"	
+	"$phongtint" "[1 1 1]"
+	"$phongalbedotint" "0"
+	"$phongfresnelranges" "[1 1 1]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "1"
+	"$rimlightboost" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.5 .5 .5]"
+	"$normalmapalphaenvmapmask" "1"
+}

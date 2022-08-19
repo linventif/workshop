@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "bo2r/icons/peacekeeper/peacekeeper_icon"
+	"$alphatest" 1
+}

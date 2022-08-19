@@ -1,0 +1,41 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/craphead_scripts/the_cocaine_factory/utility/bottle"
+	"$bumpmap" "models/craphead_scripts/the_cocaine_factory/utility/bottle_normal"
+	"$color2" "[2 2 2]"
+    "$translucent" "0"
+	"$nocull" "0"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "7"
+	"$phongfresnelranges" "[1 2 4]"
+	"$phongtint" "[.75 1 1]"
+	
+	"$detail" "dev/water"
+	"$detailscale" "1"
+	"$detailblendmode" "0"
+	"$detailblendfactor" ".25"
+
+	
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.1 .1 .1]"		
+	
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "1"
+	"$rimlightboost" "10"	
+	
+	
+    "Proxies"
+   {
+  	  "AnimatedTexture"
+      {
+         "animatedtexturevar" "$detail"
+         "animatedtextureframenumvar" "$detailframe"
+         "animatedtextureframerate" "15"
+      }
+   }		
+}
